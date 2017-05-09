@@ -1,0 +1,44 @@
+Authors:
+Andrew Gait, University of Manchester
+Oliver Rhodes, University of Manchester
+John Smith, University of Elsewhere
+Gerard Capes, University of Manchester
+
+Title:
+Measurements and simulations of secondary organic aerosols from BVOC
+
+Abstract:
+We present here findings from a model-measurement comparison study.
+
+Introduction:
+This paper presents measurements of 
+secondary organic aerosols, formed from
+biological VOC emissions.
+J. Bloggs et al 2010 have made some lovely measurements
+but they haven't answered question X about the
+science.
+J. Smith et al 2011 attempted to investigate question X,
+but further work is needed.
+A. Jones et al 2013 also claimed to answer question X,
+but we don't believe that they have done.
+
+Methodology:
+A state of the art aerosol mass spectrometer was used to measure
+chemical composition and mass concentrations, as described in
+Allen et al 2004.
+
+Simulations:
+Simulations of SOA were made using an atmospheric
+model.
+
+Results:
+The simulations did a fair job of approximating the measurements.
+
+Conclusions:
+We found out some stuff. Splendid. Science has advanced,
+but we haven't stopped yet.
+
+Acknowledgements:
+We would like to thank the EU funding body for their support,
+which we may never receive again if things continue the way
+they are going.
