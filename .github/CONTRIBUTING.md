@@ -4,7 +4,7 @@
 - Some repositories will have contributing guidelines here: others won't.
 - Read the guidelines and follow them. This will give your PR a better chance of being accepted.
 - Some repositories want you to open an issue first, in order to discuss your proposed change.
-This can be a good approach even if it isn't required, so that you know whether the owner agress with your suggestion,
+This can be a good approach even if it isn't required, so that you know whether the owner agrees with your suggestion,
 and might bring up ideas and/or challenges you haven't considered.
 - There may also be directions about code style, testing, version numbers etc.
 
