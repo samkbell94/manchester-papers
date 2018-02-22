@@ -5,5 +5,5 @@ Repository for users to clone during git-course
 You can fork this repository by clicking the `Fork` button, as follows:
 ![How to fork](forklocation.png)
 
-## Style guidelines
-Please follow the advice on [how to write a good commit message](http://gcapes.github.io/git-course/04-commit-advice/).
+## How to contribute to this repository
+Please read the [contributing guidelines](CONTRIBUTING.md).
