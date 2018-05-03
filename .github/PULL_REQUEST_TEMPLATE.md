@@ -1,7 +1,7 @@
-## Instructions for contributing to this repository
-- Please read this template, and fill out the sections below with information about your pull request.
-- For this exercise you'll probably only need to fill out the first section below.
-- PLEASE DELETE THIS INTRODUCTION SECTION BEFORE SUBMITTING YOUR PULL REQUEST!
+## Instructions for contributing to this repository (delete this section)
+- Please read this template, and fill out the appropriate sections below with information about your pull request.
+  - For this exercise you'll probably only need to fill out the first section below.
+- Please DELETE THESE INSTRUCTIONS before submitting your pull request!
 
 ## What does this Pull Request do?
 It's best to aim for small pull requests that do one thing.
